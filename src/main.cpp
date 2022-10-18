@@ -1,6 +1,6 @@
 // COMP-10184 - Mohawk College
 // Alarm System
-//
+//STAGE 5 COMPLETED
 //@author Shawn Barrow
 //@id     000332631
 //
